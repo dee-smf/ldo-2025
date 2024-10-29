@@ -1,0 +1,219 @@
+ Unidade Gestora: CONSOLIDADO                                                                                                                                                                           
+       Receita                                                           Arrecadado no Periodo   Arrecadado no Mes  Arrecadado Acumulado    Estornado no Mes
+   14  1.1.1.2.50.0.1.00.00.00  IPTU - Principal                                  1.931.663,12        1.931.663,12          1.931.663,12            7.168,35                                            
+   17  1.1.1.2.50.0.2.00.00.00  IPTU - Multas e Juros                                34.297,85           34.297,85             34.297,85              443,73                                            
+   20  1.1.1.2.50.0.3.00.00.00  IPTU - Divida Ativa                                 440.214,70          440.214,70            440.214,70            4.010,23                                            
+   23  1.1.1.2.50.0.4.00.00.00  IPTU - D.A. - Multas e Juros                        206.088,08          206.088,08            206.088,08            1.807,65                                            
+   26  1.1.1.2.53.0.1.00.00.00  ITBI - Principal                                    247.819,40          247.819,40            247.819,40                0,00                                            
+    5  1.1.1.3.03.1.1.00.00.00  IRRF - Trabalho - Principal                       1.946.477,57        1.946.477,57          1.946.477,57                0,00                                            
+   11  1.1.1.3.03.4.1.00.00.00  IRRF - Outros Rendimentos - Principal               429.144,68          429.144,68            429.144,68            5.244,24                                            
+   38  1.1.1.4.51.1.1.00.00.00  ISSQN - Principal                                 2.759.803,44        2.759.803,44          2.759.803,44            7.759,27                                            
+   41  1.1.1.4.51.1.2.00.00.00  ISSQN - Multas e Juros                               34.623,37           34.623,37             34.623,37            1.426,24                                            
+   44  1.1.1.4.51.1.3.00.00.00  ISSQN - Divida Ativa                                 55.174,53           55.174,53             55.174,53                0,00                                            
+   47  1.1.1.4.51.1.4.00.00.00  ISSQN - D.A. - Multas e Juros                        25.837,88           25.837,88             25.837,88                0,00                                            
+   51  1.1.2.1.01.0.1.01.00.00  Taxa de Licenca p/ Funcionamento de Esta            848.337,03          848.337,03            848.337,03                0,00                                            
+   55  1.1.2.1.01.0.1.04.00.00  Taxa de Licenca para Execucao de Obras               25.594,25           25.594,25             25.594,25              394,20                                            
+   56  1.1.2.1.01.0.1.05.00.00  Taxa de Apreensao, Deposito ou Liberacao              1.877,23            1.877,23              1.877,23                0,00                                            
+   57  1.1.2.1.01.0.1.06.00.00  Taxa de Licenca para Vendas Ambulantes                   38,87               38,87                 38,87                0,00                                            
+   86  1.1.2.1.01.0.1.08.00.00  Taxa de Controle e Fiscalizacao Ambienta             14.243,81           14.243,81             14.243,81                0,00                                            
+   60  1.1.2.1.01.0.2.01.00.00  Taxa de Licenca p/ Funcionamento de Esta            141.280,09          141.280,09            141.280,09                0,00                                            
+   64  1.1.2.1.01.0.2.04.00.00  Taxa de Licenca para Execucao de Obras                  627,86              627,86                627,86                0,00                                            
+   87  1.1.2.1.01.0.2.08.00.00  Taxa de Controle e Fiscalizacao Ambienta                 37,01               37,01                 37,01                0,00                                            
+   69  1.1.2.1.01.0.3.01.00.00  Taxa de Licenca p/ Funcionamento de Esta             74.829,32           74.829,32             74.829,32               78,73                                            
+   75  1.1.2.1.01.0.3.06.00.00  Taxa de Licenca para Vendas Ambulantes                  118,60              118,60                118,60                0,00                                            
+   88  1.1.2.1.01.0.3.08.00.00  Taxa de Controle e Fiscalizacao Ambienta                302,92              302,92                302,92                0,00                                            
+   78  1.1.2.1.01.0.4.01.00.00  Taxa de Licenca p/ Funcionamento de Esta             52.378,40           52.378,40             52.378,40               51,21                                            
+   84  1.1.2.1.01.0.4.06.00.00  Taxa de Licenca para Vendas Ambulantes                   38,94               38,94                 38,94                0,00                                            
+   89  1.1.2.1.01.0.4.08.00.00  Taxa de Controle e Fiscalizacao Ambienta                266,31              266,31                266,31                0,00                                            
+   50  1.1.2.1.50.0.1.00.00.00  Taxa Fisca. Vigilancia Sanitaria - Princ             57.996,93           57.996,93             57.996,93                0,00                                            
+   59  1.1.2.1.50.0.2.00.00.00  Taxa Fisca. Vigilancia Sanitaria - Multa              3.180,75            3.180,75              3.180,75                0,00                                            
+   68  1.1.2.1.50.0.3.00.00.00  Taxa Fisca. Vigilancia Sanitaria - Divid             12.786,11           12.786,11             12.786,11               18,11                                            
+   77  1.1.2.1.50.0.4.00.00.00  Taxa Fisca. Vigilancia Sanitaria - D.A.               9.826,53            9.826,53              9.826,53               11,15                                            
+   90  1.1.2.2.01.0.1.01.00.00  Taxa de Cemiterio                                   298.375,50          298.375,50            298.375,50            1.522,31                                            
+  319  1.1.2.2.01.0.1.04.00.00  Outras Taxas pela Prestacao de Servicos              81.355,78           81.355,78             81.355,78                0,00                                            
+   93  1.1.2.2.01.0.2.01.00.00  Taxa de Cemiterio                                     2.314,62            2.314,62              2.314,62              299,21                                            
+  320  1.1.2.2.01.0.2.04.00.00  Outras Taxas pela Prestacao de Servicos                 329,26              329,26                329,26                0,00                                            
+   96  1.1.2.2.01.0.3.01.00.00  Taxa de Cemiterio                                     3.538,83            3.538,83              3.538,83                0,00                                            
+   97  1.1.2.2.01.0.3.02.00.00  Taxa de Limpeza Publica                               4.373,55            4.373,55              4.373,55               31,35                                            
+  321  1.1.2.2.01.0.3.04.00.00  Outras Taxas pela Prestacao de Servicos               1.200,19            1.200,19              1.200,19                0,00                                            
+   99  1.1.2.2.01.0.4.01.00.00  Taxa de Cemiterio                                     1.923,93            1.923,93              1.923,93                0,00                                            
+ Unidade Gestora: CONSOLIDADO                                                                                                                                                                           
+       Receita                                                           Arrecadado no Periodo   Arrecadado no Mes  Arrecadado Acumulado    Estornado no Mes
+  100  1.1.2.2.01.0.4.02.00.00  Taxa de Limpeza Publica                                 696,02              696,02                696,02                4,40                                            
+  322  1.1.2.2.01.0.4.04.00.00  Outras Taxas pela Prestacao de Servicos                 543,88              543,88                543,88                0,00                                            
+   91  1.1.2.2.53.0.1.00.00.00  Taxa Manejo Residuos Solidos - Principal          1.285.462,90        1.285.462,90          1.285.462,90           33.799,65                                            
+   94  1.1.2.2.53.0.2.00.00.00  Taxa Manejo Residuos Solidos - Multas e              22.239,27           22.239,27             22.239,27              202,79                                            
+  105  1.2.4.1.50.0.1.00.00.00  Contribuicao COSIP - Principal                      818.057,83          818.057,83            818.057,83                0,00                                            
+  106  1.2.4.1.50.0.2.00.00.00  Contribuicao COSIP - Multas e Juros                     125,17              125,17                125,17                0,00                                            
+  107  1.2.4.1.50.0.3.00.00.00  Contribuicao COSIP - Divida Ativa                        24,92               24,92                 24,92                0,00                                            
+  108  1.2.4.1.50.0.4.00.00.00  Contribuicao COSIP - D.A. - Multas e Jur                 25,80               25,80                 25,80                0,00                                            
+  109  1.3.1.1.01.1.1.00.00.00  Alugueis e Arrendamentos - Principal                208.843,66          208.843,66            208.843,66                0,00                                            
+  110  1.3.1.1.01.1.2.00.00.00  Alugueis e Arrendamentos - Multas e Juro              3.462,17            3.462,17              3.462,17                0,00                                            
+  111  1.3.1.1.01.1.3.00.00.00  Alugueis e Arrendamentos - Divida Ativa              44.002,39           44.002,39             44.002,39                0,00                                            
+  112  1.3.1.1.01.1.4.00.00.00  Alugueis e Arrendamentos - D.A. - Multas              6.764,73            6.764,73              6.764,73                0,00                                            
+  117  1.3.2.1.01.0.1.01.02.00  Remuneracao Depositos  Bancarios Recurso             71.552,31           71.552,31             71.552,31                0,00                                            
+  118  1.3.2.1.01.0.1.01.03.01  Remuneracao Dep. Banc. R. Vinc. - 4500 -            196.942,77          196.942,77            196.942,77            3.469,01                                            
+  120  1.3.2.1.01.0.1.01.03.02  Remun. Dep. Banc. R. Vinc. - 4090 - PSF/             20.863,68           20.863,68             20.863,68                5,29                                            
+  121  1.3.2.1.01.0.1.01.03.03  Remuneracao Dep. Banc. Rec. Vinc. - 4160              2.371,17            2.371,17              2.371,17                0,00                                            
+  123  1.3.2.1.01.0.1.01.03.04  Remuneracao Dep. Banc. Rec. Vinc. - 4050             16.169,05           16.169,05             16.169,05                0,00                                            
+  124  1.3.2.1.01.0.1.01.03.05  Remuneracao Dep. Banc. Rec. Vinc. - 4001              1.620,47            1.620,47              1.620,47                0,00                                            
+  132  1.3.2.1.01.0.1.01.03.08  Remun. Dep. Banc. R. Vinc. - 4501 - CUST                 11,98               11,98                 11,98                0,24                                            
+  138  1.3.2.1.01.0.1.01.03.09  Remun. Dep. Banc. R. Vinc. - 4170 - SAMU              3.745,20            3.745,20              3.745,20                0,00                                            
+  140  1.3.2.1.01.0.1.01.03.10  Remun. Dep. Banc. R. Vinc. - 4011 - AT.              44.490,11           44.490,11             44.490,11                1,03                                            
+  148  1.3.2.1.01.0.1.01.03.11  Remun. Dep. Banc. R. Vinc. - 4502 - CUST                 13,18               13,18                 13,18                8,68                                            
+  150  1.3.2.1.01.0.1.01.03.13  Remun. Dep. Banc. R. Vinc. - 4230 - APOI            139.722,87          139.722,87            139.722,87                0,00                                            
+  362  1.3.2.1.01.0.1.01.03.14  Remun. Dep. Banc. R. Vinc. - 4505 - INVE             38.037,44           38.037,44             38.037,44                0,00                                            
+  395  1.3.2.1.01.0.1.01.03.16  Remun. Dep. Banc. R. Vinc. 1632 - Transf              4.003,48            4.003,48              4.003,48                0,00                                            
+  393  1.3.2.1.01.0.1.01.03.17  Remun. Dep. Banc. R. Vinc. 1631                      11.455,03           11.455,03             11.455,03                0,00                                            
+  404  1.3.2.1.01.0.1.01.03.18  Remun. Dep. Banc. R. Vinc. - Piso Enferm             10.709,12           10.709,12             10.709,12                0,00                                            
+  407  1.3.2.1.01.0.1.01.03.19  Remun. Dep. Banc. R. Vinc. 1659                      18.455,25           18.455,25             18.455,25                0,00                                            
+  151  1.3.2.1.01.0.1.01.04.00  Remuneracao de Depositos  Bancarios Recu             32.987,82           32.987,82             32.987,82              340,15                                            
+  152  1.3.2.1.01.0.1.01.05.00  Remuneracao Depositos  Bancarios de Recu             14.549,94           14.549,94             14.549,94                0,00                                            
+  153  1.3.2.1.01.0.1.01.07.01  Remuneracao Dep. Banc. R. Vinc. - 1100 -             63.350,56           63.350,56             63.350,56            4.299,67                                            
+  156  1.3.2.1.01.0.1.01.07.03  Remuneracao Dep. Banc. R. Vinc. - 1104 -             10.370,57           10.370,57             10.370,57                0,00                                            
+  158  1.3.2.1.01.0.1.01.07.04  Remuneracao Dep. Banc. R. Vinc. - 1106 -              7.165,92            7.165,92              7.165,92                0,00                                            
+  160  1.3.2.1.01.0.1.01.07.05  Remuneracao Dep. Banc. R. Vinc. - 1108 -                235,25              235,25                235,25            1.105,23                                            
+  163  1.3.2.1.01.0.1.01.07.06  Remuneracao Dep. Banc. R. Vinc. - 1111 -              3.772,94            3.772,94              3.772,94                0,00                                            
+  344  1.3.2.1.01.0.1.01.07.07  Remuneracao Dep. Banc. R. Vinc. - 1117 -              2.006,81            2.006,81              2.006,81                0,00                                            
+  164  1.3.2.1.01.0.1.01.07.08  Remuneracao Dep. Banc. R. Vinc. - 1113 -             45.119,44           45.119,44             45.119,44              958,22                                            
+ Unidade Gestora: CONSOLIDADO                                                                                                                                                                           
+       Receita                                                           Arrecadado no Periodo   Arrecadado no Mes  Arrecadado Acumulado    Estornado no Mes
+  165  1.3.2.1.01.0.1.01.08.01  Rem. de Dep. Banc. de Rec. Vinc. - SAL.              41.482,58           41.482,58             41.482,58                0,00                                            
+  166  1.3.2.1.01.0.1.01.08.02  Rem. de Dep. Banc. de Rec. Vinc. - FNDE               7.703,25            7.703,25              7.703,25                0,00                                            
+  167  1.3.2.1.01.0.1.01.08.03  Rem. de Dep. Banc. de Rec. Vinc. - CONV.                  1,99                1,99                  1,99                0,00                                            
+  157  1.3.2.1.01.0.1.01.08.04  Rem. de Dep. Banc. de Rec. Vinc. - TRANS              1.371,52            1.371,52              1.371,52                0,00                                            
+  382  1.3.2.1.01.0.1.01.08.05  Rem. de Dep. Banc. de Rec. Vinc. - PDDE                  90,93               90,93                 90,93                0,00                                            
+  383  1.3.2.1.01.0.1.01.08.06  Rem. de Dep. Banc. de Rec. Vinc. - PNAT               1.737,57            1.737,57              1.737,57                0,48                                            
+  384  1.3.2.1.01.0.1.01.08.07  Rem. de Dep. Banc. de Rec. Vinc. - MEREN              2.738,31            2.738,31              2.738,31                0,00                                            
+  385  1.3.2.1.01.0.1.01.99.01  Rem. de Dep. Banc. de Rec. Vinc. - FUNDO            110.939,55          110.939,55            110.939,55           12.156,96                                            
+  388  1.3.2.1.01.0.1.01.99.02  Rem. de Dep. Banc. de Rec. Vinc. - 1701              33.271,72           33.271,72             33.271,72              626,90                                            
+  390  1.3.2.1.01.0.1.01.99.03  Rem. de Dep. Banc. de Rec. Vinc. - FEAS              28.104,08           28.104,08             28.104,08                0,00                                            
+  391  1.3.2.1.01.0.1.01.99.04  Rem. de Dep. Banc. de Rec. Mob. Urbana                  262,03              262,03                262,03                0,00                                            
+  392  1.3.2.1.01.0.1.01.99.05  Rem. de Dep. Banc. de Rec. - CIP                        600,56              600,56                600,56                0,00                                            
+  394  1.3.2.1.01.0.1.01.99.06  Rem. de Dep. Banc. de Rec. - 1703                        54,52               54,52                 54,52                1,54                                            
+  184  1.3.2.1.01.0.1.01.99.07  Rem. de Dep. Banc. de Rec. - transf. ent              3.692,16            3.692,16              3.692,16                0,00                                            
+  398  1.3.2.1.01.0.1.01.99.08  Rem. De Dep. Banc. de Rec. - FR 1700                 92.207,85           92.207,85             92.207,85                0,00                                            
+  144  1.3.2.1.01.0.1.01.99.09  Remu. de Dep. Banc. de Rec. - Op. Cred.                  66,44               66,44                 66,44                0,00                                            
+  141  1.3.2.1.01.0.1.01.99.10  Remu. Dep. Banc. de Rec. - Alien. Bens -             26.352,74           26.352,74             26.352,74                0,00                                            
+  143  1.3.2.1.01.0.1.01.99.12  Remu. Dep. Banc. de Rec. - Alien. Bens -             12.508,54           12.508,54             12.508,54                0,00                                            
+  405  1.3.2.1.01.0.1.01.99.13  Remun. Dep. Banc. de Rec. Vinc. - Lei P.              1.808,56            1.808,56              1.808,56                0,00                                            
+  406  1.3.2.1.01.0.1.01.99.14  Remun. Dep. Banc. de Rec. Vinc. - Lei P.                760,28              760,28                760,28            2.380,00                                            
+  270  1.3.2.1.01.0.1.01.99.15  Remun. Dep. Banc. de Rec. Vinc. - Aldir              12.069,42           12.069,42             12.069,42                0,00                                            
+  316  1.3.2.1.01.0.1.01.99.17  Remun. Dep. Banc. de Rec. Vinc. - OUTRAS             19.304,98           19.304,98             19.304,98            5.622,27                                            
+  408  1.3.2.1.01.0.1.01.99.18  Remun. Dep. Banc. de Rec. Vnc. Transf. e             11.677,99           11.677,99             11.677,99              471,43                                            
+  168  1.3.2.1.01.0.1.02.99.00  Remune. Outros Depositos Bancarios Recur            609.272,44          609.272,44            609.272,44           53.706,10                                            
+  364  1.3.9.9.99.0.1.00.00.00  Outras Receitas Patrimoniais - Principal              5.041,24            5.041,24              5.041,24                0,00                                            
+  169  1.6.1.1.01.0.1.01.00.00  Servicos Administrativos em Geral                     6.023,73            6.023,73              6.023,73              216,25                                            
+  171  1.6.1.1.01.0.2.01.00.00  Servicos Administrativos em Geral                        89,95               89,95                 89,95                0,00                                            
+  179  1.6.9.9.99.0.1.00.00.00  Outros Servicos - Principal                          14.202,90           14.202,90             14.202,90            1.420,29                                            
+  183  1.7.1.1.51.1.1.00.00.00  Cota-Parte do FPM - Cota Mensal - Princi         22.076.232,45       22.076.232,45         22.076.232,45            1.440,12                                            
+  187  1.7.1.1.51.2.1.00.00.00  Cota-Parte FPM Extraordinarias - Princip          2.121.288,52        2.121.288,52          2.121.288,52                0,00                                            
+  358  1.7.1.1.52.0.1.00.00.00  Cota-Parte do ITR- Principal                        267.569,25          267.569,25            267.569,25            1.578,42                                            
+  193  1.7.1.2.52.4.1.00.00.00  Cota-Parte do FEP - Principal                       541.554,47          541.554,47            541.554,47                0,00                                            
+  194  1.7.1.3.50.1.1.01.00.00  Transf. Rec. Bloco Manu. - 4500 - PAB FI          1.129.352,01        1.129.352,01          1.129.352,01                0,00                                            
+  197  1.7.1.3.50.1.1.02.00.00  Transf. Rec. Bloco Manu. - 4500 - ESF/NA          1.485.709,47        1.485.709,47          1.485.709,47                0,00                                            
+  198  1.7.1.3.50.1.1.03.00.00  Transf. Rec. Bloco Manu. - 4500 - PACS              841.552,00          841.552,00            841.552,00                0,00                                            
+  199  1.7.1.3.50.1.1.04.00.00  Transf. Rec. Bloco Manu. - 4500 - SAUDE              30.000,00           30.000,00             30.000,00                0,00                                            
+  202  1.7.1.3.50.1.1.05.00.00  Transf. Rec. Bloco Manu. - 4500 - PMAQ               89.143,92           89.143,92             89.143,92                0,00                                            
+ Unidade Gestora: CONSOLIDADO                                                                                                                                                                           
+       Receita                                                           Arrecadado no Periodo   Arrecadado no Mes  Arrecadado Acumulado    Estornado no Mes
+  201  1.7.1.3.50.2.1.01.00.00  Transf. Rec. Bloco Manu. - 4501 - SAMU/U            177.425,00          177.425,00            177.425,00           17.062,50                                            
+  208  1.7.1.3.50.2.1.02.00.00  Transf. Rec. Bl. Manu. - 4501 - BL. MED.          3.904.563,60        3.904.563,60          3.904.563,60                0,00                                            
+  195  1.7.1.3.50.3.1.01.00.00  Transf. Rec. Bloco Manu. - 4502 - VIG. S             13.940,00           13.940,00             13.940,00                0,00                                            
+  209  1.7.1.3.50.3.1.02.00.00  Transf. Rec. Bloco Manu. - 4502 - TETO F            238.147,35          238.147,35            238.147,35          345.564,46                                            
+  119  1.7.1.3.50.3.1.03.00.00  Transf. Rec. Bloco Manu. - 4502 - PISO A             61.760,00           61.760,00             61.760,00                0,00                                            
+  196  1.7.1.3.50.4.1.01.00.00  Transfe. Bloco Manu. ASPS - Assis. Farma            208.138,58          208.138,58            208.138,58                0,00                                            
+  347  1.7.1.3.50.5.1.01.00.00  Transfe. Bloco Manu. ASPS - Gestao do SU             25.308,85           25.308,85             25.308,85                0,00                                            
+  402  1.7.1.3.50.5.1.02.00.00  Transfe. Bloco Manu. ASPS - Gestao do SU            940.000,93          940.000,93            940.000,93                0,00                                            
+  210  1.7.1.4.50.0.1.00.00.00  Transferencias do Salario-Educacao - Pri          1.113.770,23        1.113.770,23          1.113.770,23                0,00                                            
+  211  1.7.1.4.51.0.1.00.00.00  Transferencias Diretas do FNDE ao PDDE -              2.580,00            2.580,00              2.580,00                0,00                                            
+  212  1.7.1.4.52.0.1.01.00.00  Transf. PNAE - 1081 - PNAEF                         215.432,80          215.432,80            215.432,80           19.584,80                                            
+  213  1.7.1.4.52.0.1.02.00.00  Transf. PNAE - 1080 - PNAEC                          52.443,60           52.443,60             52.443,60            4.767,60                                            
+  214  1.7.1.4.52.0.1.03.00.00  Transf. PNAE - 1079 - PNAEP                          77.140,80           77.140,80             77.140,80            7.012,80                                            
+  216  1.7.1.4.52.0.1.05.00.00  Transf. PNAE - 1091 - PNAEJA                         14.588,20           14.588,20             14.588,20            1.326,20                                            
+  217  1.7.1.4.52.0.1.06.00.00  Transf. PNAE - 1007 - ALIMENTACAO ESCOLA             13.912,80           13.912,80             13.912,80            1.264,80                                            
+  218  1.7.1.4.52.0.1.07.00.00  Transf. PNAE - 1012 - PNAE QUILOMBOLA                19.487,60           19.487,60             19.487,60            1.771,60                                            
+  219  1.7.1.4.53.0.1.00.00.00  Transferencias ao PNATE - Principal                 149.483,22          149.483,22            149.483,22                0,00                                            
+  222  1.7.1.4.99.0.1.00.00.00  Outras Transfe. Diretas FNDE - Principal             69.992,40           69.992,40             69.992,40                0,00                                            
+  409  1.7.1.5.52.0.1.00.00.00  Transferencias ao Fundeb - VAAR - Princi            377.847,68          377.847,68            377.847,68                0,00                                            
+  260  1.7.1.6.50.0.1.00.00.00  Transferencias Recursos do FNAS - Princi            600.000,00          600.000,00            600.000,00                0,00                                            
+  355  1.7.1.7.50.0.1.01.00.00  Transf. Conv. ao SUS - 1631 - 4500                1.400.250,00        1.400.250,00          1.400.250,00                0,00                                            
+  255  1.7.1.7.50.0.1.02.00.00  Transf. Conv. ao SUS - 1631 - 4501                  100.000,00          100.000,00            100.000,00                0,00                                            
+  228  1.7.1.7.52.0.1.01.00.00  Transf. Conv. Uniao Prog. A. Soc. - 1100            120.680,00          120.680,00            120.680,00                0,00                                            
+  231  1.7.1.7.52.0.1.02.00.00  Transf. Conv. Uniao Prog. A. Soc. - 1104             98.731,34           98.731,34             98.731,34                0,00                                            
+  233  1.7.1.7.52.0.1.03.00.00  Transf. Conv. Uniao Prog. A. Soc. - 1106             76.327,73           76.327,73             76.327,73                0,00                                            
+  240  1.7.1.7.52.0.1.05.00.00  Transf. Conv. Un. Prog. A. Soc. - 1117 -             78.486,00           78.486,00             78.486,00                0,00                                            
+  243  1.7.1.7.99.0.1.00.00.00  Outras Transfe. Uniao e Enti. - Principa             13.010,80           13.010,80             13.010,80                0,00                                            
+  357  1.7.1.9.57.0.1.00.00.00  Transferencia Especial da Uniao - Princi             21.908,82           21.908,82             21.908,82                0,00                                            
+  333  1.7.1.9.58.0.1.00.00.00  Transfe. Obriga. Deco. LC 176/2020 - Pri            133.028,37          133.028,37            133.028,37                0,00                                            
+  275  1.7.1.9.60.0.1.00.00.00  Trans. Aldir Blanc Lei 14.399/2022 - Pri            204.756,78          204.756,78            204.756,78                0,00                                            
+  278  1.7.1.9.99.0.1.06.00.00  Transf. Uniao - AFM - Estado Calamidade                   0,00                0,00                  0,00          200.000,00                                            
+  282  1.7.1.9.99.0.1.07.00.00  Transf. Uniao - AFM - Estado Calamidade           2.714.252,08        2.714.252,08          2.714.252,08                0,00                                            
+  307  1.7.1.9.99.0.1.08.00.00  Transf. Uniao - Def. Civil - Calamidade           1.056.551,20        1.056.551,20          1.056.551,20          464.051,20                                            
+  244  1.7.2.1.50.0.1.00.00.00  Cota-Parte do ICMS - Principal                   19.454.367,12       19.454.367,12         19.454.367,12          195.551,30                                            
+  248  1.7.2.1.51.0.1.00.00.00  Cota-Parte do IPVA - Principal                    2.223.071,13        2.223.071,13          2.223.071,13                0,00                                            
+  252  1.7.2.1.52.0.1.00.00.00  Cota-Parte do IPI - Municipios - Princip            252.273,38          252.273,38            252.273,38                0,00                                            
+  256  1.7.2.1.53.0.1.00.00.00  Cota-Parte da CIDE - Principal                       21.366,36           21.366,36             21.366,36                0,00                                            
+ Unidade Gestora: CONSOLIDADO                                                                                                                                                                           
+       Receita                                                           Arrecadado no Periodo   Arrecadado no Mes  Arrecadado Acumulado    Estornado no Mes
+  258  1.7.2.3.50.0.1.01.00.00  Transf. Rec. SUS - 4050 - FARM. BASICA               98.180,40           98.180,40             98.180,40           21.314,72                                            
+  259  1.7.2.3.50.0.1.02.00.00  Transf. Rec. SUS - 4190 - VIG. EM SAUDE              25.000,00           25.000,00             25.000,00           25.000,00                                            
+  262  1.7.2.3.50.0.1.03.00.00  Transf. Rec. SUS - 4170 - SAMU/UPA                  133.017,17          133.017,17            133.017,17           51.160,45                                            
+  265  1.7.2.3.50.0.1.04.00.00  Transf. Rec. SUS - 4011 - AT. BASICA                525.008,28          525.008,28            525.008,28           59.674,00                                            
+  267  1.7.2.3.50.0.1.05.00.00  Transf. Rec. SUS - 4090 - PSF/NASF/ESF              390.008,85          390.008,85            390.008,85                0,00                                            
+  268  1.7.2.3.50.0.1.06.00.00  Transf. Rec. SUS - 4160 - PIM                        85.920,00           85.920,00             85.920,00                0,00                                            
+  269  1.7.2.3.50.0.1.07.00.00  Transf. Rec. SUS - 4230 - APOIO A REDE H          5.144.825,28        5.144.825,28          5.144.825,28          360.281,38                                            
+  272  1.7.2.3.50.0.1.08.00.00  Transf. Rec. SUS - 4220 - CAPS                      264.000,00          264.000,00            264.000,00                0,00                                            
+  273  1.7.2.4.51.0.1.01.00.00  Transferencias de Convenios para o Trans            481.821,28          481.821,28            481.821,28                0,00                                            
+  381  1.7.2.4.99.0.1.99.00.00  Outras Transfe. Convenios dos Estados e              13.392,00           13.392,00             13.392,00                0,00                                            
+  281  1.7.2.9.51.0.1.00.00.00  Transferencias Estados Assis. Social - P             21.302,11           21.302,11             21.302,11                0,00                                            
+  254  1.7.2.9.53.0.1.00.00.00  Cota-Parte Perdas Arrecadacao ICMS LC no            186.796,10          186.796,10            186.796,10                0,00                                            
+  279  1.7.2.9.99.0.1.01.00.00  Cota-parte das Multas de Transito                   113.425,44          113.425,44            113.425,44                0,00                                            
+  280  1.7.2.9.99.0.1.02.00.00  Transferencias do Prog. Integracao Trib.             21.000,00           21.000,00             21.000,00                0,00                                            
+  191  1.7.2.9.99.0.1.04.00.00  Outras Transferencias do Estado - Defesa          2.781.395,35        2.781.395,35          2.781.395,35                0,00                                            
+  283  1.7.4.1.99.0.1.01.00.00  Doacoes em Beneficio de Criancas e Adole              7.398,13            7.398,13              7.398,13                0,00                                            
+  284  1.7.4.1.99.0.1.02.00.00  Doacoes em Beneficio de Idosos - PJ                  10.022,87           10.022,87             10.022,87                0,00                                            
+  237  1.7.4.1.99.0.1.99.00.00  Outras Transferencias de Instituicoes Pr             20.000,00           20.000,00             20.000,00                0,00                                            
+  285  1.7.5.1.50.0.1.00.00.00  Transferencias de Recursos FUNDEB - Prin         17.724.662,43       17.724.662,43         17.724.662,43          278.033,13                                            
+  286  1.7.9.1.99.0.1.01.00.00  Doacoes em Beneficio de Criancas e Adole             13.745,35           13.745,35             13.745,35                0,00                                            
+  287  1.7.9.1.99.0.1.02.00.00  Doacoes em Beneficio de Idosos - PF                   9.502,00            9.502,00              9.502,00                0,00                                            
+  271  1.7.9.1.99.0.1.99.01.00  Outras Transferencias de Pessoas Fisicas              3.782,72            3.782,72              3.782,72            3.461,72                                            
+  288  1.9.1.1.01.0.1.00.00.00  Multas Previs. Legis. Especifica - Princ              8.609,32            8.609,32              8.609,32                0,00                                            
+  290  1.9.1.1.01.0.3.00.00.00  Multas Previs. Legis. Especifica - Divid             14.297,65           14.297,65             14.297,65                0,00                                            
+  291  1.9.1.1.01.0.4.00.00.00  Multas Previs. Legis. Especifica - D.A.                 677,14              677,14                677,14                0,00                                            
+  294  1.9.1.1.06.1.3.00.00.00  Multas Adm. Danos Ambientais - Divida At              1.067,83            1.067,83              1.067,83                0,00                                            
+  295  1.9.1.1.06.1.4.00.00.00  Multas Adm. Danos Ambientais - D.A. - Mu                  1,68                1,68                  1,68                0,00                                            
+  299  1.9.1.1.09.0.3.00.00.00  Multas e Juros Previstos em Contratos -              25.595,91           25.595,91             25.595,91                0,00                                            
+  327  1.9.1.1.09.0.4.00.00.00  Multas e Juros Previstos em Contratos -               5.806,38            5.806,38              5.806,38                0,00                                            
+  221  1.9.2.1.01.0.1.01.00.00  Indenizacoes por Danos Causados ao Patri              3.200,00            3.200,00              3.200,00                0,00                                            
+  370  1.9.2.1.03.0.1.00.00.00  Indenizacao por Sinistro - Principal                 29.161,00           29.161,00             29.161,00                0,00                                            
+  396  1.9.2.2.06.4.1.01.00.00  Restituicao de Desp. de Ex. Anteriores -              8.287,17            8.287,17              8.287,17                0,00                                            
+  276  1.9.2.2.06.4.1.03.00.00  Restituicao de Desp. de Ex. Anteriores -                  3,09                3,09                  3,09                0,00                                            
+  277  1.9.2.2.06.4.1.04.00.00  Restituicao de Desp. de Ex. Anteriores -                  1,29                1,29                  1,29                0,00                                            
+  245  1.9.2.2.06.4.1.05.00.00  Restituicao de Desp. de Ex. Anteriores -             18.019,61           18.019,61             18.019,61                0,00                                            
+  246  1.9.2.2.06.4.1.06.00.00  Restituicao de Desp. de Ex. Anteriores -              2.159,12            2.159,12              2.159,12                0,00                                            
+  356  1.9.2.2.99.0.1.99.00.00  Outras Restituicoes                                 138.227,17          138.227,17            138.227,17                0,00                                            
+ Unidade Gestora: CONSOLIDADO                                                                                                                                                                           
+       Receita                                                           Arrecadado no Periodo   Arrecadado no Mes  Arrecadado Acumulado    Estornado no Mes
+  303  1.9.2.2.99.0.3.01.00.00  Restituicoes Determinadas pelo TCE                   27.774,85           27.774,85             27.774,85                0,00                                            
+  304  1.9.2.2.99.0.4.01.00.00  Restituicoes Determinadas pelo TCE                   26.068,57           26.068,57             26.068,57                0,00                                            
+  371  1.9.2.3.99.0.1.00.00.00  Outros Ressarcimentos - Principal                    70.119,14           70.119,14             70.119,14                0,00                                            
+  306  1.9.9.9.99.2.1.99.02.00  Outras Receitas Diversas                            418.851,24          418.851,24            418.851,24                0,00                                            
+  329  1.9.9.9.99.2.3.99.01.00  Receita Decorrente de Multas e Juros de             142.327,29          142.327,29            142.327,29              153,26                                            
+  330  1.9.9.9.99.2.4.99.01.00  Receita Decorrente de Multas e Juros de               4.678,36            4.678,36              4.678,36                9,22                                            
+  399  2.2.1.1.02.0.1.00.00.00  Alienacao Congeneres Permanentes - Princ          1.490.000,00        1.490.000,00          1.490.000,00                0,00                                            
+  309  2.2.1.3.01.0.1.02.01.00  Alienacao de Bens Moveis e Semoventes -               3.145,50            3.145,50              3.145,50                0,00                                            
+  312  2.2.2.1.01.0.1.02.00.00  Alienacao de Bens Imoveis - Exceto RPPS             370.220,97          370.220,97            370.220,97           24.738,36                                            
+  192  2.4.1.3.50.0.1.00.00.00  Transferencias de Recursos do FNAS - Pri            100.000,00          100.000,00            100.000,00                0,00                                            
+  353  2.4.1.4.50.0.1.01.00.00  Transfe. Conv. Uniao ao SUS - 4506                  344.515,00          344.515,00            344.515,00                0,00                                            
+  354  2.4.1.4.99.0.1.00.00.00  Outras Transf. Convenios Uniao e Entidad            671.511,00          671.511,00            671.511,00          384.205,00                                            
+  317  2.4.1.9.51.0.1.00.00.00  Transferencia Especial da Uniao - Princi          1.160.000,00        1.160.000,00          1.160.000,00                0,00                                            
+  249  2.4.1.9.99.0.1.01.00.00  Outras Transfe. Rec. Uniao e de suas Ent            220.000,00          220.000,00            220.000,00                0,00                                            
+  250  2.4.1.9.99.0.1.02.00.00  Outras Transfe. Rec. Uniao e de suas Ent            200.000,00          200.000,00            200.000,00                0,00                                            
+  375  2.4.2.1.50.0.1.02.00.00  Transferencias SUS - 4011 - Atencao Basi            200.000,00          200.000,00            200.000,00                0,00                                            
+  380  2.4.2.2.50.0.1.01.00.00  Transfe. Convenios dos Estados SUS - 423            100.000,00          100.000,00            100.000,00                0,00                                            
+  318  2.4.2.2.99.0.1.00.00.00  Outras Transfe. Convenios Estados,DF e E            546.608,00          546.608,00            546.608,00                0,00                                            
+  200  2.4.2.9.99.0.1.01.00.00  Outras Transfe. de Rec. dos Estados - As            256.539,20          256.539,20            256.539,20                0,00                                            
+  220  2.4.5.1.01.0.1.02.00.00  Transf. de Outras Instituicoes Publicas              16.958,29           16.958,29             16.958,29                0,00                                            
+       Total Geral da Receita Liquida                                           113.467.790,54      113.467.790,54        113.467.790,54        2.620.069,60                                            
+FONTE: GOVBR - Execucao Orcamentaria e Contabilidade Publica, 17/Out/2024, 13h e 25m.

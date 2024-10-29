@@ -1,0 +1,7 @@
+pandas
+ipykernel
+matplotlib
+python-bcb
+statsmodels
+tikzplotlib
+openpyxl
